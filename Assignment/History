@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>History</title>
+</head>
+<body style="background-color:Lavender;">
+<p style="text-align:right;"><a href="Assignment 1">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Contacts"> Contacts</a></p>
+<img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;">
+<h1 style="color:MediumPurple;font-family:courier;">Çapa Science Highschool</h1>
+<h4>This is not the official website of Çapa Science Highschool!</h4>
+<h5>It is a website made for a homework by a former student of the school.</h5>
+<h3 style="color:DarkSeaGreen;">Male Teacher School</h3>
+<p>On 16<sup>th</sup> March 1848,
+the first male teacher school of Turkey was founded in Fatih, Istanbul.</p>
+</body>
+</html>

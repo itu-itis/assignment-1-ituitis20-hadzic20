@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Çapa Science Highschool</title>
+</head>
+<body>
+<p style="text-align:right;"><a href="Assignment 1">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Contacts"> Contacts</a></p>
+<img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;">
+<h1 style="color:MediumPurple;font-family:courier;">Çapa Science Highschool</h1>
+<h4>This is not the official website of Çapa Science Highschool!</h4>
+<h5>It is a website made for a homework by a former student of the school.</h5>
+<h3 style="color:DarkSeaGreen;"><b>About Academic Side of School</b></h3>
+<p>Çapa Science Highcshool is a state school that accepts 150 new students every year.
+It is always in top 10 best highschools list in Turkey.
+It accepts only the students that succeed in central highschool exams that are established by Turkish government.
+44 succesful teachers are teaching the students of Çapa Science Highschool.
+Since it is a science highchool, its all students are getting education in MF(mathematics-natural sciences) field.
+That is why most of graduates are studying either medicine or engineering.
+There are also some graduates that choose studying social sciences after graduating from Çapa <i>Science</i> Highschool, which show that its students are versatile.
+Also the school has great percents of university placemets, in some years it gets the first place in this field between all Turkish highschools.</p>
+<h3 style="color:DarkSeaGreen;"><b>About Physical Side of School</b></h3>
+<p>Çapa Science Highschool has a campus founded on a big area. 
+It is in center of city and has access to many transportation options.
+Some of features within campus area are:
+<ul>
+<li>School building</li>
+<li>Dormitory</li>
+<ul>
+<li>Male dormitory</li>
+<li>Female dormitory</li>
+</ul>
+<li>Dining hall</li>
+<li>Open sport areas</li>
+<ul>
+<li>Football field</li>
+<li>Basketball field</li>
+</ul>
+<li>Benchs</li>
+</ul>
+School building which was build in 1901, but came into use as a school in 1951, has 4 floors.
+Some of its features are:
+<ul>
+<li>20 classes</li>
+<li>3 laboratories</li>
+<ul style="font-size:90%;">
+<li>Physics</li>
+<li>Chemistry</li>
+<li>Biology</li>
+</ul>
+<li>1 library</li>
+<li>1 indoor gym</li>
+<li>1 conference hall</li>
+</ul>
+</p>
+<h3 style="color:DarkSeaGreen;">About Events</h3>
+<p>Out of all the classes and academic things, 
+Çapa Science Highschool has 3 traditional events that are performed every year:
+<ol type="i">
+<li>Çapa Science Week</li>
+<li>Çapa Breakfast</li>
+<li>Çapa Youth Days</li>
+<li>Çapa Iftar</li>
+</ol>
+</body>
+</html>

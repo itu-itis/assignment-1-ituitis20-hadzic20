@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>University Placements</title>
+</head>
+<body style="background-color:LavenderBlush;">
+<p style="text-align:right;"><a href="Assignment 1">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Contacts"> Contacts</a></p>
+<img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;">
+<h1 style="color:MediumPurple;font-family:courier;">Çapa Science Highschool</h1>
+<h4>This is not the official website of Çapa Science Highschool!</h4>
+<h5>It is a website made for a homework by a former student of the school.</h5>
+<table style="width:30%;">
+<caption style="color:DarkSeaGreen;font-size:150%"><b>University Placements</b></caption>
+<tr>
+<th>Field</th>
+<th>Number of students</th>
+</tr>
+<tr>
+<td>Medicine</td>
+<td>37</td>
+</tr>
+<tr>
+<td>Dentistry</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Computer Engineering</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Mechanical Engineering</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Electrical Engineering</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Industrial Engineering</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Others</td>
+<td>16</td>
+</tr>
+</table>
+<p>Most students of Çapa Science HighSchool get good results in the 
+central university placement exam YKS. Here are lists of students that ranked in top 500 
+exam takers in Turkey in different fields.
+<h3 style="color:DarkSeaGreen;">MF(mathematics-natural sciences) Field</h3>
+<ol>
+<li>Gizem Yaşa</li>
+<li>Fatih Demir</li>
+<li>Ertuğrul Talha Tekeş</li>
+<li>Altan Bora Menekşe</li>
+<li>Heval Gündoğdu</li>
+<li>Baran Parlak</li>
+<li>Muhammed Şamil Kurt</li>
+<li>Eda Nur Sarıçam</li>
+</ol>
+<h3 style="color:DarkSeaGreen;">Foreign Languages Field</h3>
+<ol>
+<li>Gizem Yaşa</li>
+<li>Altan Bora Menekşe</li>
+<li>Salih Mert Çetin</li>
+<li>Elif Sena Arslanoğlu</li>
+</ol>
+<h3 style="color:DarkSeaGreen;">TM(literature-mathematics) Field</h3>
+<ol>
+<li>İremnur Çiftçi</li>
+</ol>
+</body>
+</html>
