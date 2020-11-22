@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Çapa Science Highschool</title>
+</head>
+<body style="background-color:LightCyan;">
+<p style="text-align:right;"><a href="index.html">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Gallery"> Gallery</a><a href="Contacts"> Contacts</a></p>
+<a href="http://capa.meb.k12.tr"><img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;"></a>
+<h1 style="color:MediumPurple;font-family:courier;">Çapa Science Highschool</h1>
+<h4>This is not the official website of Çapa Science Highschool!</h4>
+<h5>It is a website made for a homework by a former student of the school.</h5>
+<img src="dandelions" alt"ÇFL and Dandelion" style="width:50%;height:35%;">
+<img src="pine.tree" alt="ÇFL and Pine Tree" style="width:50%;height:35%;">
+<img src="red.fruits" alt="ÇFL and a Tree with Red Fruits" style="width:50%;height:35%;">
+</body>
+</html>
