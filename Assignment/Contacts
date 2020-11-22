@@ -4,8 +4,8 @@
 <title>Çapa Science Highschool</title>
 </head>
 <body style="background-color:SeaShell;">
-<p style="text-align:right;"><a href="Assignment 1">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Contacts"> Contacts</a></p>
-<img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;">
+<p style="text-align:right;"><a href="index.html">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Gallery"> Gallery</a><a href="Contacts"> Contacts</a></p>
+<a href="http://capa.meb.k12.tr"><img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;"></a>
 <h1 style="color:MediumPurple;font-family:courier;">Çapa Science Highschool</h1>
 <h4>This is not the official website of Çapa Science Highschool!</h4>
 <h5>It is a website made for a homework by a former student of the school.</h5>

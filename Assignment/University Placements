@@ -4,50 +4,50 @@
 <title>University Placements</title>
 </head>
 <body style="background-color:LavenderBlush;">
-<p style="text-align:right;"><a href="Assignment 1">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Contacts"> Contacts</a></p>
-<img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;">
+<p style="text-align:right;"><a href="index.html">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Gallery"> Gallery</a><a href="Contacts"> Contacts</a></p>
+<a href="http://capa.meb.k12.tr"><img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;"></a>
 <h1 style="color:MediumPurple;font-family:courier;">Çapa Science Highschool</h1>
 <h4>This is not the official website of Çapa Science Highschool!</h4>
 <h5>It is a website made for a homework by a former student of the school.</h5>
-<table style="width:30%;">
-<caption style="color:DarkSeaGreen;font-size:150%"><b>University Placements</b></caption>
-<tr>
-<th>Field</th>
-<th>Number of students</th>
+<table style="width:30%;border: 1px solid black;background-color:Plum;">
+<caption style="background-color:DarkSeaGreen;font-size:150%"><b>University Placements</b></caption>
+<tr style="border: 1px solid black;">
+<th style="border: 1px solid black;text-align:center;">Field</th>
+<th style="border: 1px solid black;text-align:center;">Number of students</th>
 </tr>
-<tr>
-<td>Medicine</td>
-<td>37</td>
+<tr style="border: 1px solid black;">
+<td style="border: 1px solid black;text-align:center;">Medicine</td>
+<td style="border: 1px solid black;text-align:center;">37</td>
 </tr>
-<tr>
-<td>Dentistry</td>
-<td>4</td>
+<tr style="border: 1px solid black;">
+<td style="border: 1px solid black;text-align:center;">Dentistry</td>
+<td style="border: 1px solid black;text-align:center;">4</td>
 </tr>
-<tr>
-<td>Computer Engineering</td>
-<td>7</td>
+<tr style="border: 1px solid black;">
+<td style="border: 1px solid black;text-align:center;">Computer Engineering</td>
+<td style="border: 1px solid black;text-align:center;">7</td>
 </tr>
-<tr>
-<td>Mechanical Engineering</td>
-<td>6</td>
+<tr style="border: 1px solid black;">
+<td style="border: 1px solid black;text-align:center;">Mechanical Engineering</td>
+<td style="border: 1px solid black;text-align:center;">6</td>
 </tr>
-<tr>
-<td>Electrical Engineering</td>
-<td>11</td>
+<tr style="border: 1px solid black;">
+<td style="border: 1px solid black;text-align:center;">Electrical Engineering</td>
+<td style="border: 1px solid black;text-align:center;">11</td>
 </tr>
-<tr>
-<td>Industrial Engineering</td>
-<td>5</td>
+<tr style="border: 1px solid black;">
+<td style="border: 1px solid black;text-align:center;">Industrial Engineering</td>
+<td style="border: 1px solid black;text-align:center;">5</td>
 </tr>
-<tr>
-<td>Others</td>
-<td>16</td>
+<tr style="border: 1px solid black;">
+<td style="border: 1px solid black;text-align:center;">Others</td>
+<td style="border: 1px solid black;text-align:center;">16</td>
 </tr>
 </table>
-<p>Most students of Çapa Science HighSchool get good results in the 
+<p>Most students of Çapa Science Highschool get good results in the 
 central university placement exam YKS. Here are lists of students that ranked in top 500 
-exam takers in Turkey in different fields.
-<h3 style="color:DarkSeaGreen;">MF(mathematics-natural sciences) Field</h3>
+examinees in Turkey in different fields.
+<h3 style="background-color:DarkSeaGreen;">MF(mathematics-natural sciences) Field</h3>
 <ol>
 <li>Gizem Yaşa</li>
 <li>Fatih Demir</li>
@@ -58,14 +58,14 @@ exam takers in Turkey in different fields.
 <li>Muhammed Şamil Kurt</li>
 <li>Eda Nur Sarıçam</li>
 </ol>
-<h3 style="color:DarkSeaGreen;">Foreign Languages Field</h3>
+<h3 style="background-color:DarkSeaGreen;">Foreign Languages Field</h3>
 <ol>
 <li>Gizem Yaşa</li>
 <li>Altan Bora Menekşe</li>
 <li>Salih Mert Çetin</li>
 <li>Elif Sena Arslanoğlu</li>
 </ol>
-<h3 style="color:DarkSeaGreen;">TM(literature-mathematics) Field</h3>
+<h3 style="background-color:DarkSeaGreen;">TM(literature-mathematics) Field</h3>
 <ol>
 <li>İremnur Çiftçi</li>
 </ol>
