@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8">
 <title>University Placements</title>
 </head>
-<body style="background-color:LavenderBlush;">
-<p style="text-align:right;"><a href="index.html">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Gallery"> Gallery</a><a href="Contacts"> Contacts</a></p>
+<body style="background-color:LavenderBlush;background-image: url('logo.png');background-size:cover;">
+<p style="text-align:right;"><a href="index.html" style="border:10px outset DarkSeaGreen;border-radius:5px; background-color:DarkSeaGreen; font-size:110%"><b>Home</b></a><a href="History" style="border:10px outset MediumSlateBlue; border-radius:5px; background-color:MediumSlateBlue; font-size:110%"> <b>History</b></a><a href="University.Placements" style="border:10px outset Pink; border-radius: 5px; background-color:Pink; font-size:110%"> <b>University Placements</b></a><a href="Gallery" style="border:10px outset LightSkyBlue; border-radius:5px; background-color:LightSkyBlue; font-size:110%"> <b>Gallery</b></a><a href="Contacts" style="border:10px outset Wheat; border-radius:5px; background-color:Wheat; font-size:110%"> <b>Contacts</b></a><a href="AboutMe" style="border:10px outset LightSlateGray;border-radius:5px; background-color:LightSlateGray; font-size:110%"><b>About Me</b></a></p>
 <a href="http://capa.meb.k12.tr"><img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;"></a>
 <h1 style="color:MediumPurple;font-family:courier;">Çapa Science Highschool</h1>
 <h4>This is not the official website of Çapa Science Highschool!</h4>
@@ -47,7 +48,7 @@
 <p>Most students of Çapa Science Highschool get good results in the 
 central university placement exam YKS. Here are lists of students that ranked in top 500 
 examinees in Turkey in different fields.
-<h3 style="background-color:DarkSeaGreen;">MF(mathematics-natural sciences) Field</h3>
+<h3 style="border:5px outset DarkSeaGreen;border-radius:5px; background-color:DarkSeaGreen;">MF(mathematics-natural sciences) Field</h3>
 <ol>
 <li>Gizem Yaşa</li>
 <li>Fatih Demir</li>
@@ -58,14 +59,14 @@ examinees in Turkey in different fields.
 <li>Muhammed Şamil Kurt</li>
 <li>Eda Nur Sarıçam</li>
 </ol>
-<h3 style="background-color:DarkSeaGreen;">Foreign Languages Field</h3>
+<h3 style="border:5px outset DarkSeaGreen;border-radius:5px; background-color:DarkSeaGreen;">Foreign Languages Field</h3>
 <ol>
 <li>Gizem Yaşa</li>
 <li>Altan Bora Menekşe</li>
 <li>Salih Mert Çetin</li>
 <li>Elif Sena Arslanoğlu</li>
 </ol>
-<h3 style="background-color:DarkSeaGreen;">TM(literature-mathematics) Field</h3>
+<h3 style="border:5px outset DarkSeaGreen;border-radius:5px; background-color:DarkSeaGreen;">TM(literature-mathematics) Field</h3>
 <ol>
 <li>İremnur Çiftçi</li>
 </ol>

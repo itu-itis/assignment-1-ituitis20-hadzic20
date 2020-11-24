@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8">
 <title>Çapa Science Highschool</title>
 </head>
-<body style="background-color:SeaShell;">
-<p style="text-align:right;"><a href="index.html">Home</a><a href="History"> History</a><a href="University Placements"> University Placements</a><a href="Gallery"> Gallery</a><a href="Contacts"> Contacts</a></p>
+<body style="background-color:SeaShell;background-image: url('logo.png');background-size:cover;">
+<p style="text-align:right;"><a href="index.html" style="border:10px outset DarkSeaGreen;border-radius:5px; background-color:DarkSeaGreen; font-size:110%"><b>Home</b></a><a href="History" style="border:10px outset MediumSlateBlue; border-radius:5px; background-color:MediumSlateBlue; font-size:110%"> <b>History</b></a><a href="University.Placements" style="border:10px outset Pink; border-radius: 5px; background-color:Pink; font-size:110%"> <b>University Placements</b></a><a href="Gallery" style="border:10px outset LightSkyBlue; border-radius:5px; background-color:LightSkyBlue; font-size:110%"> <b>Gallery</b></a><a href="Contacts" style="border:10px outset Wheat; border-radius:5px; background-color:Wheat; font-size:110%"> <b>Contacts</b></a><a href="AboutMe" style="border:10px outset LightSlateGray;border-radius:5px; background-color:LightSlateGray; font-size:110%"><b>About Me</b></a></p>
 <a href="http://capa.meb.k12.tr"><img src="çapa.png" alt="Çapa Fen Lisesi" style="float:left;width:200px;height:125px;"></a>
 <h1 style="color:MediumPurple;font-family:courier;">Çapa Science Highschool</h1>
 <h4>This is not the official website of Çapa Science Highschool!</h4>
