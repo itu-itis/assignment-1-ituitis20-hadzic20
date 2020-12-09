@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="mylogo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-118.57143"
+     inkscape:cy="662.85714"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="641"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:#7f2aff;fill-opacity:0.55102036;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path819"
+       cx="103.94346"
+       cy="142.02975"
+       rx="80.508926"
+       ry="65.011902" />
+    <path
+       style="fill:#ccaaff;stroke:#000000;stroke-width:0.26995733px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.489195,112.62006 c 1.808489,-8.43081 -1.348114,-7.04784 4.655205,-23.769973 l 11.638012,19.936103 c 24.547654,-10.639235 41.870788,-4.5542 60.517658,-1.53354 l 11.63801,-17.635789 c 6.3474,13.486009 3.33413,18.570689 5.43108,22.236429 v 0 c 17.89064,30.29911 17.53055,51.46656 0.77586,66.7092 -31.80864,28.93805 -76.163722,15.05236 -90.776488,-0.76677 -27.341703,-29.59891 -7.537053,-48.22325 -3.879337,-65.17566 z"
+       id="path817"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccssc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot823"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99975204px;line-height:1.25;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7f2aff;fill-opacity:1;stroke:none;"
+       transform="matrix(0.30559932,0,0,0.50050373,-16.809755,-99.173724)"
+       inkscape:transform-center-x="2.1621446"
+       inkscape:transform-center-y="11.880042"><flowRegion
+         id="flowRegion825"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99975204px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#7f2aff;"><rect
+           id="rect827"
+           width="314.45996"
+           height="164.06184"
+           x="237.28084"
+           y="411.09109"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99975204px;font-family:serif;-inkscape-font-specification:'serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#7f2aff;" /></flowRegion><flowPara
+         id="flowPara829">ÇAPA</flowPara><flowPara
+         id="flowPara831">SCIENCE</flowPara><flowPara
+         id="flowPara833">HIGHSCHOOL</flowPara><flowPara
+         id="flowPara835" /></flowRoot>    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#8800aa;fill-opacity:0.55102036;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="path843"
+       sodipodi:sides="5"
+       sodipodi:cx="129.26785"
+       sodipodi:cy="104.23214"
+       sodipodi:r1="14.2332"
+       sodipodi:r2="28.4664"
+       sodipodi:arg1="0.18697927"
+       sodipodi:arg2="0.8152978"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 143.25297,106.87797 5.53292,18.07571 -17.71273,-6.60329 -15.48126,10.84781 0.80657,-18.88634 -15.10086,-11.371387 18.21123,-5.069104 6.14841,-17.875721 10.44858,15.753461 18.90078,0.323586 z"
+       inkscape:transform-center-x="21.390954"
+       inkscape:transform-center-y="3.7547284"
+       transform="matrix(0.59475096,0.46633207,-0.40084809,0.55011285,105.10288,-4.1072698)" />
+  </g>
+</svg>
